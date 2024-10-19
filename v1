@@ -1,0 +1,104 @@
+{
+  "matches": [
+    {
+      "matchId": 101,
+      "clubs": [
+        {
+          "id": 1,
+          "name": "Club A",
+          "score": 3,
+          "image": "https://example.com/images/club-a.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Club B",
+          "score": 1,
+          "image": "https://example.com/images/club-b.jpg"
+        }
+      ],
+      "result": "Club A wins",
+      "startTime": "2024-10-19T15:00:00Z",
+      "isFinished": true
+    },
+    {
+      "matchId": 102,
+      "clubs": [
+        {
+          "id": 3,
+          "name": "Club C",
+          "score": 2,
+          "image": "https://example.com/images/club-c.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Club D",
+          "score": 0,
+          "image": "https://example.com/images/club-d.jpg"
+        }
+      ],
+      "result": "Club C wins",
+      "startTime": "2024-10-19T17:00:00Z",
+      "isFinished": true
+    },
+    {
+      "matchId": 103,
+      "clubs": [
+        {
+          "id": 5,
+          "name": "Club E",
+          "score": 1,
+          "image": "https://example.com/images/club-e.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Club F",
+          "score": 1,
+          "image": "https://example.com/images/club-f.jpg"
+        }
+      ],
+      "result": "Draw",
+      "startTime": "2024-10-19T19:00:00Z",
+      "isFinished": true
+    },
+    {
+      "matchId": 104,
+      "clubs": [
+        {
+          "id": 2,
+          "name": "Club B",
+          "score": 2,
+          "image": "https://example.com/images/club-b.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Club A",
+          "score": 3,
+          "image": "https://example.com/images/club-a.jpg"
+        }
+      ],
+      "result": "Club A wins",
+      "startTime": "2024-10-20T15:00:00Z",
+      "isFinished": false
+    },
+    {
+      "matchId": 105,
+      "clubs": [
+        {
+          "id": 4,
+          "name": "Club D",
+          "score": 1,
+          "image": "https://example.com/images/club-d.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Club C",
+          "score": 2,
+          "image": "https://example.com/images/club-c.jpg"
+        }
+      ],
+      "result": "Club C wins",
+      "startTime": "2024-10-20T17:00:00Z",
+      "isFinished": false
+    }
+  ]
+}
